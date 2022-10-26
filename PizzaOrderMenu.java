@@ -1,7 +1,7 @@
 //**************************************************************************************************
 // PizzaOrderMenu.java
 //
-// Ivan Chung T00696713
+// Ivan Chung 
 // 
 //
 // PizzaOrderMenu is a JavaFX GUI application that allows the user to pick a set of pizza toppings 
